@@ -19,9 +19,9 @@ It looks and works similar to the original Jio site with proper layout, design, 
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+- HTML
+- Tailwind CSS
+- React.js
 - Hosted on Netlify
 
 ## 🧠 What I Practiced
@@ -38,6 +38,6 @@ Click here to view:
 
 ## 🙋‍♂️ Made By
 
-Created by [Your Name]  
+Created by [Sachin Gautam]  
 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
 
